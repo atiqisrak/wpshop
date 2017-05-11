@@ -1,0 +1,8 @@
+1.1
+Updated:
+	- Visual Composer Plugin
+	- Zoom image in product detail
+
+1.2
+Updated:
+	- Visual Composer Plugin

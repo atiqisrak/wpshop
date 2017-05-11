@@ -1,0 +1,16 @@
+/*Chrome,Safari*/
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+.mini-cart-content{
+	 right:-1px;
+}
+.title-gal-pro-tab a::after {
+    bottom: -17px;
+}
+.bigsale-countdown canvas{
+	top:72px;
+}
+.item-trend20 .item-product .product-info {
+    padding: 27px 0 28px;
+    (;padding: 28px 0 28px;);
+}
+}
